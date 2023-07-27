@@ -18,5 +18,7 @@ of software development.|function correctly together.|
 
 `print(response.json())`
 [1]: [link](https://chat.openai.com/?model=text-davinci-002-render-sha)
-[2]: [<span style="color:blue">blue</span> Twitter.](https://twitter.com/joseph_mugabi)
-[3]: [<span style="color:blue">some *blue* linkedin</span>.](www.linkedin.com/in/mugabijoseph)
+
+[2]: [<span style="color:blue"></span> Twitter.](https://twitter.com/joseph_mugabi)
+
+[3]: [<span style="color:blue">linkedin</span>.](www.linkedin.com/in/mugabijoseph)
