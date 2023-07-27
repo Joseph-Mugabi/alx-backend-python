@@ -9,7 +9,7 @@ from typing import Dict, Union, Tuple
 from utils import access_nested_map, get_json, memoize
 
 
-class TechAccessNestedMap(TestCase):
+class TestAccessNestedMap(TestCase):
     """implementing unittest class for TestAccessNestedMap"""
 
     @parameterized.expand(
